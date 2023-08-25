@@ -2,10 +2,10 @@ import React from 'react'
 
 function service() {
   return (
-    <div>
+    <section id='section'>
       service
 
-    </div>
+    </section>
   )
 }
 
