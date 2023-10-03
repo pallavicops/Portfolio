@@ -37,7 +37,16 @@ const About = () => {
          
 
         </div>
-        <p>Hello there! I'm a passionate engineering student with a strong affinity for Information Science. I excel in technologies like Flutter, React, and Python, seamlessly blending them with engineering principles. I build cross-platform applications, create engaging interfaces, and elegantly solve complex problems. Backed by a solid engineering foundation, I'm poised to innovate across various domains. Join me on this journey of merging technology and engineering. Let's shape the future together.</p>
+        <p>Hello there! I'm a passionate engineering student 
+          with a strong affinity for Information Science.
+           I excel in technologies like Flutter, React, 
+           and Python, seamlessly blending them with engineering
+            principles. I build cross-platform applications, 
+            create engaging interfaces, and elegantly solve complex 
+            problems. Backed by a solid engineering foundation, I'm 
+            poised to innovate across various domains. Join me on this
+             journey of merging technology and engineering. Let's
+              shape the future together.</p>
 <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 
       </div>
