@@ -25,13 +25,20 @@ function Experience() {
             </article>
             <article className='experience_details'>
               <BiSolidBadgeCheck className='experience_details-icon'/>
+             <div>
+             <h4>Tailwind CSS</h4>
+              <small className='text-light'>Intermediate</small>
+             </div>
+            </article>
+            <article className='experience_details'>
+              <BiSolidBadgeCheck className='experience_details-icon'/>
               <div><h4>JavaScript</h4>
-              <small className='text-light'>Basic</small></div>
+              <small className='text-light'>Intermediate</small></div>
             </article>
             <article className='experience_details'>
               <BiSolidBadgeCheck className='experience_details-icon'/>
               <div><h4>React</h4>
-              <small className='text-light'>Basic</small></div>
+              <small className='text-light'>Intermediate</small></div>
             </article>
             <article className='experience_details'>
               <BiSolidBadgeCheck className='experience_details-icon'/>
@@ -75,6 +82,13 @@ function Experience() {
               <BiSolidBadgeCheck className='experience_details-icon'/>
               <div>
               <h4>Node JS</h4>
+              <small className='text-light'>Basic</small>
+              </div>
+            </article>
+            <article className='experience_details'>
+              <BiSolidBadgeCheck className='experience_details-icon'/>
+              <div>
+              <h4>Express JS</h4>
               <small className='text-light'>Basic</small>
               </div>
             </article>

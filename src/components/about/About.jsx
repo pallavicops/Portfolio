@@ -32,21 +32,15 @@ const About = () => {
           <article className='about_card'>
             <FaRegFolderOpen className='about_icon'/>
             <h5>Projects</h5>
-            <small>4 completed</small>
+            <small>6 completed</small>
           </article>
          
 
         </div>
-        <p>Hello there! I'm a passionate engineering student 
-          with a strong affinity for Information Science.
-           I excel in technologies like Flutter, React, 
-           and Python, seamlessly blending them with engineering
-            principles. I build cross-platform applications, 
-            create engaging interfaces, and elegantly solve complex 
-            problems. Backed by a solid engineering foundation, I'm 
-            poised to innovate across various domains. Join me on this
-             journey of merging technology and engineering. Let's
-              shape the future together.</p>
+        <p>A motivated developer with experience in building and deploying applications across front-end, back-end, mobile, and web 
+        environments. Eager to contribute to impactful projects and grow through continuous learning and collaboration.
+</p>
+
 <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 
       </div>
